@@ -1,0 +1,6 @@
+#pip install -r requirements.txt   - run this to install required packages for this task
+
+numpy
+pandas
+scikit-learn
+xgboost
